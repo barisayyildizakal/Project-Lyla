@@ -1,0 +1,6 @@
+.env
+config/ayarlar.json
+toplanan_twitler.json
+log_dosyasi/
+venv/
+__pycache__/
